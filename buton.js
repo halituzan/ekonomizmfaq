@@ -1,17 +1,5 @@
 /*
-*   This content is licensed according to the W3C Software License at
-*   https://www.w3.org/Consortium/Legal/2015/copyright-software-and-document
-*
-*   File:   ButtonExpand.js
-*
-*   Desc:   Checkbox widget that implements ARIA Authoring Practices
-*           for a menu of links
-*/
-
-/*
-*   @constructor ButtonExpand
-*
-*
+v1
 */
 var ButtonExpand = function (domNode) {
 
